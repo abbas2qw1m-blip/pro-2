@@ -72,7 +72,7 @@ a:hover{
 }
 
 .btn-for-apple{
-    
+    color:black;
     display:flex;
     align-items: center;
     text-align: center;
@@ -99,4 +99,5 @@ margin-block: 21px;
 }
 .any-option:hover{
     border-color: black;
+
 }
